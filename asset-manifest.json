@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsteransutech.git/static/css/main.4cc6f207.chunk.css",
-    "main.js": "/monsteransutech.git/static/js/main.924930c2.chunk.js",
-    "main.js.map": "/monsteransutech.git/static/js/main.924930c2.chunk.js.map",
-    "runtime-main.js": "/monsteransutech.git/static/js/runtime-main.a4b6da87.js",
-    "runtime-main.js.map": "/monsteransutech.git/static/js/runtime-main.a4b6da87.js.map",
-    "static/js/2.2524815f.chunk.js": "/monsteransutech.git/static/js/2.2524815f.chunk.js",
-    "static/js/2.2524815f.chunk.js.map": "/monsteransutech.git/static/js/2.2524815f.chunk.js.map",
-    "index.html": "/monsteransutech.git/index.html",
-    "precache-manifest.5f65afed32e54778ee87818d3dfa5b70.js": "/monsteransutech.git/precache-manifest.5f65afed32e54778ee87818d3dfa5b70.js",
-    "service-worker.js": "/monsteransutech.git/service-worker.js",
-    "static/css/main.4cc6f207.chunk.css.map": "/monsteransutech.git/static/css/main.4cc6f207.chunk.css.map",
-    "static/js/2.2524815f.chunk.js.LICENSE.txt": "/monsteransutech.git/static/js/2.2524815f.chunk.js.LICENSE.txt"
+    "main.css": "/monsteransutech/static/css/main.4cc6f207.chunk.css",
+    "main.js": "/monsteransutech/static/js/main.b32d1f64.chunk.js",
+    "main.js.map": "/monsteransutech/static/js/main.b32d1f64.chunk.js.map",
+    "runtime-main.js": "/monsteransutech/static/js/runtime-main.85d6a022.js",
+    "runtime-main.js.map": "/monsteransutech/static/js/runtime-main.85d6a022.js.map",
+    "static/js/2.2524815f.chunk.js": "/monsteransutech/static/js/2.2524815f.chunk.js",
+    "static/js/2.2524815f.chunk.js.map": "/monsteransutech/static/js/2.2524815f.chunk.js.map",
+    "index.html": "/monsteransutech/index.html",
+    "precache-manifest.afe34aad5ac197ba11c91abe9c27a193.js": "/monsteransutech/precache-manifest.afe34aad5ac197ba11c91abe9c27a193.js",
+    "service-worker.js": "/monsteransutech/service-worker.js",
+    "static/css/main.4cc6f207.chunk.css.map": "/monsteransutech/static/css/main.4cc6f207.chunk.css.map",
+    "static/js/2.2524815f.chunk.js.LICENSE.txt": "/monsteransutech/static/js/2.2524815f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4b6da87.js",
+    "static/js/runtime-main.85d6a022.js",
     "static/js/2.2524815f.chunk.js",
     "static/css/main.4cc6f207.chunk.css",
-    "static/js/main.924930c2.chunk.js"
+    "static/js/main.b32d1f64.chunk.js"
   ]
 }
